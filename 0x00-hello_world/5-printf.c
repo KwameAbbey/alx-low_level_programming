@@ -2,7 +2,7 @@
 /**
  * main - Entry Point
  * Description: A program that prints a line using the printf function
- * return: 0 success
+ * Return: Always 0 success
  */
 int main(void)
 {
